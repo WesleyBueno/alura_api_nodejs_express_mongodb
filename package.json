@@ -1,0 +1,17 @@
+{
+  "name": "alura_api_nodejs_express_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyBueno/alura_api_nodejs_express_mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
